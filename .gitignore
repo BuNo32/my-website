@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+# build outputs
+dist/
+build/
+.tmp/
+.DS_Store
+# editor
+.vscode/
+.idea/
